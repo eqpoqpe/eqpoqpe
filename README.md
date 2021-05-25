@@ -1,1 +1,1 @@
-Rainbow six siege
+Rainbow Six Siege
