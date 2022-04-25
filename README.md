@@ -15,6 +15,5 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript" width="64" height="64"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" class="rounded mr-3" width="64" height="64" alt="vim">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" class="rounded mr-3" width="64" height="64" alt="react">
-  <img src="https://eqpoqpe.github.io/assets/images/logos/taco-logo.png" class="rounded mr-3" width="64" height="64" alt="taco">
 </p>
 
