@@ -1,6 +1,7 @@
 ```
-   ___  __ _ _ __   ___   __ _ _ __   ___
-  / _ \/ _` | '_ \ / _ \ / _` | '_ \ / _ \
+                      \'     
+   ___  __ _ _ __   __`       '`/ __   ___
+  / _ \/ _` | '_ \ / _ ☄️  _` | '_ \ / _ \
  |  __/ (_| | |_) | (_) | (_| | |_) |  __/
   \___|\__, | .__/ \___/ \__, | .__/ \___|
           | | |             | | |
@@ -17,4 +18,3 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" class="rounded mr-3" width="64" height="64" alt="react">
   <img src="https://eqpoqpe.github.io/projects/taco/images/taco-logo.png" class="rounded mr-3" width="64" alt="taco">
 </p>
-
