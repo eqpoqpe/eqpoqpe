@@ -20,4 +20,5 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="64" height="64" alt="react">
   <img src="https://eqpoqpe.github.io/projects/taco/images/taco-logo.png" width="64" alt="taco">
   <img src="https://eqpoqpe.github.io/projects/fifi/images/fifi-logo.png" width="64" alt="fifi">
+  <img src="https://eqpoqpe.github.io/projects/tinreact/images/tinreact-logo.png" width="64" alt="tinreact">
 </p>
